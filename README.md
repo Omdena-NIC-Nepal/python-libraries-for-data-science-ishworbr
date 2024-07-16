@@ -25,3 +25,5 @@ This repository contains the starter code for the NumPy and Pandas assignment. F
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 
 Good luck!
+
+# Completed my assignment
